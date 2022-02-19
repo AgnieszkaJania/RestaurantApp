@@ -19,4 +19,4 @@ class Customer{
 
 let Jan = new Customer("Jan","Kowalski");
 Jan.setAge(17);
-console.log(Jan.age)
+console.log(`${Jan.introduceCustomer()}`);
