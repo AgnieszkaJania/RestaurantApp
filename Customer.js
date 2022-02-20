@@ -1,4 +1,4 @@
-class Customer{
+export class Customer{
    
 
     contructor(imie,nazwisko){
